@@ -31,7 +31,6 @@ Este projeto é um site dedicado ao poema **Alma Luz**, de Clarice Lispector, e 
 |-----------------------|------------------------------------------|-----------------|
 | Configuração Inicial  | Configuração do repositório, estrutura básica do site e implementação do poema e reflexão. | **04/12/2024** |
 | Design Responsivo     | Desenvolvimento de um layout responsivo e otimizado.       | **04/12/2024** |
-| Implementação de Temas| Adicionar funcionalidade de alternância entre temas claro e escuro. | **04/12/2024** |
 | Documentação Final    | Revisão do código, melhorias e criação de documentação completa. | **04/12/2024** |
 | Publicação            | Lançamento oficial do site.             | **04/12/2024** |
 
